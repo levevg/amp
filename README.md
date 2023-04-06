@@ -1,2 +1,1 @@
-# amp
-My car amplifier
+Supposedly schematics will be here =)
